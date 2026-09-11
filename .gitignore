@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.venv/
+__pycache__/
+*.pyc
+uploads/
+outputs/
+models/
+*.safetensors
+*.ckpt
+*.pth
